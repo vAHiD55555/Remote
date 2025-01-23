@@ -1,4 +1,4 @@
-FROM python:3.10-slim
+FROM python:3.14.0a3-slim
 
 LABEL org.opencontainers.image.authors="livid@v2ex.com"
 
