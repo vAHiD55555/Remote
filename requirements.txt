@@ -14,3 +14,4 @@ python-resize-image
 requests
 sentry-sdk[flask]
 web3
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
